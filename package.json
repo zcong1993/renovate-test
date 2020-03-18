@@ -1,0 +1,17 @@
+{
+  "name": "renovate-test",
+  "version": "0.0.0",
+  "description": "my cool project",
+  "repository": {
+    "url": "zcong1993/renovate-test",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo no test!"
+  },
+  "author": "zcong1993 <zhangcong1992@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.8"
+  }
+}
